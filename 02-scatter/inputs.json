@@ -1,0 +1,8 @@
+{
+  "count_words_batch.input_files": [
+    "data/hamlet.txt",
+    "data/julius-caesar.txt",
+    "data/othello.txt"
+  ],
+  "count_words_batch.script": "write_tsv.py"
+}
